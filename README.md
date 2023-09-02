@@ -23,7 +23,7 @@ Afterwards,  pre-processing the data, the algorithm creates fresh visualisations
 ## Step 3 - Feature Selection:
 In this stage, the code divides the characteristics from the target variable "Sleep Disorder" and assigns them to X and y, accordingly. This is a standard machine learning strategy where the target variable is used for prediction while the characteristics are utilised to train the model.
 
-## Model Explanation:
+### Model Explanation:
 
 ## K-Nearest Neighbors (KNN)
 A straightforward and user-friendly supervised machine learning technique called K-Nearest Neighbours (KNN) is employed for classification and regression applications. The fundamental goal of KNN is to categorise a data point based on the feature space's k closest neighbours' predominant class. In other words, it makes the assumption that comparable data points are probably members of the same class.
